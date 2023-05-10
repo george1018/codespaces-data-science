@@ -6,7 +6,7 @@ This is my first markdown file. I will use it to take notes.
 
 ## Math function 
 
-Let's have a equation to discibe simple linear regression:
+Let's have a equation to discibe simple linear regression: 
 
 $$
 y = \beta_0 + \beta_1 x + \epsilon
